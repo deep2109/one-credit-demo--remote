@@ -1,0 +1,2 @@
+/demo-dir/sub3/file8.txt
+/demo-dir/sub3/file9.txt
